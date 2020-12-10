@@ -1,0 +1,9 @@
+{
+    "packages": [
+        "packages/*",
+        "packages/daybyday/*"
+    ],
+    "version": "0.0.0",
+    "useWorkspaces": true,
+    "npmClient": "npm"
+}
